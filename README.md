@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DyoDlm.
 - 👀 I’m interested in natural sciences.
-- 🌱 I’m currently learning Applied physics and informatic.
+- 🌱 I’m currently learning Applied physics and informatics.
 - 💞️ I’m looking to collaborate on nothing yet (no time).
 - 📫 How to reach me : github.
 - 😄 Pronouns: we.
